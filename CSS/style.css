@@ -1,0 +1,66 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #4a4a4f;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+nav li {
+    font-size: 1em;
+    text-transform: uppercase;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+nav a:hover {
+    color: #000000;
+    background-color: #f6f6f6;
+
+    
+}
+
+.card {
+    display: inline-block;
+    width: 20%;
+    margin-left: 10%;
+    padding-bottom: 5%;
+}
+
+.card a {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 4%;
+    
+    color: #4a4a4f;
+}
+
+h2 {
+    text-decoration: none;
+}
+
+footer {
+    align: center;
+}
