@@ -1,4 +1,3 @@
-# My very first webpage (use as h1)
-
-Welcome!
+# My very first webpage 
+A webpage that showcases all the wonderful things to learn!
 
