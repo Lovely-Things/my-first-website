@@ -10,4 +10,5 @@ This website is desigend to give information about the technologies (different l
 that are covered in the different **streams** in the **Full Stack Developer course**
 
 # USAGE
-Use it by clicking on the image or the link under the image to go to the *Wikipedia* page that describes the chosen technology in detail.
+Use it by clicking on the image or the link under the image to go to the *Wikipedia* page which describes the chosen technology in detail.
+
