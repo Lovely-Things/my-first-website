@@ -12,3 +12,5 @@ that are covered in the different **streams** in the **Full Stack Developer cour
 # USAGE
 Use it by clicking on the image or the link under the image to go to the *Wikipedia* page which describes the chosen technology in detail.
 
+Screen Shot 2019-07-02 at 16.23.30.png
+![](Screen Shot 2019-07-02 at 16.23.30.png)
