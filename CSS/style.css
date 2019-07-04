@@ -32,6 +32,10 @@ nav a:hover {
     background-color: #f6f6f6;
 }
 
+a {
+    text-decoration: none;
+}
+
 .card {
     display: inline-block;
     width: 15%;
